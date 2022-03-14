@@ -8,4 +8,4 @@
 1. Работа с Git
 1. Разработчик на Kotlin
 
-/img/2343.jpg
+![picture](/img/2343.jpg)
